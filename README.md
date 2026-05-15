@@ -74,4 +74,4 @@ In addition to traditional full-stack and backend mastery, I actively leverage m
 * **LinkedIn:** [linkedin.com/in/ranjit-prajapati-744a79bb](https://linkedin.com/in/ranjit-prajapati-744a79bb) 
 * **GitHub:** [github.com/PLRanjit](https://github.com/PLRanjit)
 * **Website:** [plranjit.github.io/plranjit-portfolio](https://plranjit.github.io/plranjit-portfolio/)
-* **Email:** [known1995ranjit@gmail.com](mailto:known1995ranjit@gmail.com)
+* **Email:** [known1995ranjit@yahoo.com](mailto:known1995ranjit@yahoo.com)
